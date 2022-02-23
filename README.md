@@ -1,2 +1,5 @@
-# ratosdocin-site
-Site feito para prática. Contém recursos de estudos de um grupo de amigos da faculdade.
+# Ratos do CIn - Site
+
+Site feito como exercício. Foram utilizados HTML e CSS para criar o site com visual minimalista e responsivo.
+
+O site pode ser acessado clicando <a href="https://ratosdocin.netlify.app/" target="_blank">aqui</a>

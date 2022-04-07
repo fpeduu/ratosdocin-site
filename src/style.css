@@ -117,7 +117,7 @@ a.resource-link p {
     align-items: center;
     justify-content: center;
 
-    width: 50vw;
+    width: 44vw;
 }
 
 #team h2 {
@@ -131,7 +131,7 @@ a.resource-link p {
 }
 
 #team .member {
-    width: 20rem;
+    width: 19rem;
     height: 24rem;
     margin: .6rem 2rem;
 
@@ -142,20 +142,20 @@ a.resource-link p {
 }
 
 #team .member img {
-    width: 12rem;
-    height: 12rem;
+    width: 11rem;
+    height: 11rem;
     border-radius: 50%;
 }
 
 #team .member strong {
     transition-duration: .4s;
 
-    font-size: 2rem;
+    font-size: 1.9rem;
     margin: .8rem;
 }
 
 #team .member p {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 #team .member strong:hover {
@@ -220,6 +220,15 @@ a.resource-link p {
         margin: 0;
         width: 70vw;
         height: 14rem;
+    }
+
+    #third-row {
+        display: flex;
+        justify-content: center;
+    }
+
+    #third-row .member {
+        padding: 0 10vw;
     }
 
     #team .member {
